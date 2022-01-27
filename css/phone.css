@@ -1,0 +1,53 @@
+/* nav section */
+#navbar {
+  flex-direction: column;
+  width: 104%;
+}
+#navbar ul li a {
+  font-size: 1rem;
+  padding: 0px 6px;
+}
+/*#logo {
+    flex-direction: column;
+} */
+
+/* home section */
+#home {
+  height: 293px;
+  flex-direction: column;
+  padding: 3px 24px;
+}
+#home::before {
+  height: 381px;
+}
+#home p {
+  font-size: 12px;
+}
+
+/* services section */
+#services {
+  flex-direction: column;
+}
+
+/* sponor section */
+#sponsor {
+  flex-wrap: wrap;
+}
+#sponsor img {
+  width: 20vw;
+  padding: 2px 3px;
+}
+
+/*contact section */
+
+/* footer section */
+
+/* utility classes */
+.hprime {
+  font-size: 23px;
+}
+
+.btn {
+  font-size: 12px;
+  padding: 3px 8px;
+}
