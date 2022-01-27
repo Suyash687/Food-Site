@@ -1,7 +1,7 @@
 /* nav section */
 #navbar {
   flex-direction: column;
-  width: 104%;
+  width: 100%;
 }
 #navbar ul li a {
   font-size: 1rem;
